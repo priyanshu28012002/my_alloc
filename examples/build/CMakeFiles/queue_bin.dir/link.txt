@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/queue_bin.dir/src/queue.cpp.o -o bin/queue_bin  -lmyalloc 

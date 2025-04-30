@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hash_bin.dir/src/hash.cpp.o -o bin/hash_bin  -lmyalloc 

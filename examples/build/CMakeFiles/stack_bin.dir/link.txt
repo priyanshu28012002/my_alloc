@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/stack_bin.dir/src/stack.cpp.o -o bin/stack_bin  -lmyalloc 

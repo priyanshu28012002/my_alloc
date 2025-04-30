@@ -1,0 +1,8 @@
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/vector_bin.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/hash_bin.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/stack_bin.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/queue_bin.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/dynamic_allocation_bin.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/all_solutions.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/edit_cache.dir
+/home/octobotics/Desktop/Working/memory_management/mm/my_alloc/examples/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/vector_bin.dir/src/vector.cpp.o -o bin/vector_bin  -lmyalloc 

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/demo.dir/src/ds.cpp.o -o demo  -lmyalloc 

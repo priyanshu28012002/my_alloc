@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dynamic_allocation_bin.dir/src/dynamic_allocation.cpp.o -o bin/dynamic_allocation_bin  -lmyalloc 
